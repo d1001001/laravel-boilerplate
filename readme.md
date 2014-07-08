@@ -1,6 +1,7 @@
 # laravel-boilerplate
----
-Laravel boilerplate with modular structure, basic Sentry set and foundation framework.
+Laravel boilerplate with modular structure, basic Sentry setup and Zurb Foundation.
+
+-----
 
 ## Laravel PHP Framework
 
